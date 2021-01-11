@@ -16,6 +16,7 @@ mkdir ~/Paper/
 cd ~/Paper/
 
 wget https://papermc.io/api/v2/projects/paper/versions/1.16.4/builds/403/downloads/paper-1.16.4-403.jar
+wget https://raw.githubusercontent.com/7man7LMYT/glowing-pancake/main/eula.txt
 
 cd ~
 
