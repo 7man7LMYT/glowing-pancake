@@ -26,7 +26,7 @@ apt install -y default-jre
 
 echo
 echo Paper has been installed?
-#echo You can access the config file using your phones file manager, there should be a folder called 'Geyser'.
+#echo You can access the config file using your phones file manager, there should be a folder called 'Paper'.
 echo You can now start Paper at any time using
 echo ./ubuntu_directory/start-ubuntu.sh
 echo cd Paper
