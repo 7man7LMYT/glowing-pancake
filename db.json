@@ -1,0 +1,31 @@
+{
+  "_id": "612ee18e20b397d755d11fe9",
+  "index": 0,
+  "guid": "3cf99ab5-4548-4775-a5f5-988cf53d2f7f",
+  "isActive": true,
+  "balance": "$2,456.92",
+  "picture": "http://placehold.it/32x32",
+  "age": 31,
+  "eyeColor": "blue",
+  "name": "Car",
+  "gender": "male",
+  "company": "BOSTONIC",
+  "email": "t",
+  "phone": "32",
+  "address": "9",
+  "about": "Ex duis non ipsum consectetur velit et elit anim magna ea et. Est exercitation nostrud nulla commodo nostrud cillum occaecat et amet. Duis elit incididunt incididunt exercitation tempor. Duis consequat in reprehenderit magna eiusmod. Cillum pariatur elit voluptate occaecat in amet occaecat ipsum veniam deserunt excepteur.\r\n",
+  "registered": "2019-02-21T10:29:05 +08:00",
+  "latitude": -7,
+  "longitude": 1,
+  "tags": [
+    "ullamco",
+    "sint",
+    "cillum",
+    "eu",
+    "exercitation",
+    "nulla",
+    "cupidatat"
+  ],
+  "greeting": "Hello, j You have 8 unread messages.",
+  "favoriteFruit": "apple"
+}
